@@ -32,7 +32,7 @@ Once you open BudgetU and complete a quick 2-minute setup, you can:
 Why does this matter?
 Financial stress is one of the leading causes of anxiety among university students in France. Yet most financial tools are designed for professionals, not students: they're complex, subscription-based, and built around features that students simply don't need.
 BudgetU is different because it was built by students, for students — with a direct understanding of what it feels like to run out of money in week three of the month.
-After two months of testing with 22 students at aivancity Paris, the average satisfaction rating was 7.9 out of 10. 86% of users said the Smart Saving Tips helped them discover cheaper alternatives they were not already using.
+
 
 What else is out there?
 Several budgeting tools exist for general audiences, each with its own trade-offs:
@@ -55,7 +55,7 @@ What do we want you to do?
 We'd love you to try BudgetU and tell us what you think.
 
 Here's how to get started in 3 steps:
-•	Open the app: github.com/Hii987/English_Project
+•	Open the app: github.com/Hii987/English_Project or go directly on the link netlify(mobile/web)
 •	Complete the 2-minute setup (your name, income, and initial budget)
 •	Log your expenses for one week — then explore the dashboard
 
